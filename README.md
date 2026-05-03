@@ -14,13 +14,6 @@ This project documents the complete firmware and hardware overhaul of a Creality
 - **Smart Macros:** Automated `PRINT_START`, `PRINT_END`, and `LOAD_FILAMENT` routines for seamless workflow.[cite: 1]
 - **Bed Mesh:** 5x5 bicubic mesh calibration for perfect first layers.[cite: 1]
 
-## 📸 Project Status
-![Hardware Setup](image_eeab36.png)
-*Initial wiring and electronics integration stage.*
-
-![Interface](image_ede002.png)
-*Live monitoring via Mainsail interface.*
-
 ## 👨‍💻 Engineering Profile
 **Direnç Ferzan**
 Specialized in system integration, embedded firmware, and industrial automation.
